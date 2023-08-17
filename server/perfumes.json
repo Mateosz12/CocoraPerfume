@@ -1,0 +1,62 @@
+[
+{
+    "id": "1",
+    "nombre": "as",
+    "cantidad": 2,
+    "categoria": ["Citrico","Floral"],
+    "notas": "1"
+  },
+  {
+    "id": "2",
+    "nombre": "Mateo",
+    "cantidad": 23,
+    "categoria": ["dulce","Floral"],
+    "notas": "QA"
+  },
+  {
+    "id": "3",
+    "nombre": "jose",
+    "cantidad": 56,
+    "categoria": ["Maderado","Floral"],
+    "notas": "analista"
+  },
+  {
+    "id": "5",
+    "nombre": "Jessica Villa",
+    "cantidad": 25,
+    "categoria": ["Citrico","Maderado"],
+    "notas": "Administradora"
+  },
+  {
+    "id": "6",
+    "nombre": "isa",
+    "cantidad": 13,
+    "categoria": ["Citrico","Floral"],
+    "notas": "nada"
+  },
+  {
+    "id": "7",
+    "nombre": "s",
+    "cantidad": 2,
+    "categoria": ["Citrico","Dulce"],
+    "notas": "12a"
+  },
+  {
+    "id": "8",
+    "nombre": "j",
+    "cantidad": 5,
+    "categoria": ["Citrico","Mentolado"],
+    "notas": "y"
+  },
+  {
+    "id": "baef2215-41e3-472c-8282-1a8b21975a11",
+    "nombre": "Polo black",
+    "cantidad": 1000,
+    "categoria": [
+      "Maderado",
+      "Mentolado"
+    ],
+    "notas": "suave"
+  }
+
+]

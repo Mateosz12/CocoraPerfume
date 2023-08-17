@@ -1,0 +1,32 @@
+### Recuperar todos los perfumes
+
+GET http://localhost:3001/perfumes
+
+
+### Recuperar perfume por Categoria
+
+GET http://localhost:3001/perfumes?categoria=floral
+
+### Recuperar perfumes por nombre 
+GET http://localhost:3001/perfumes?nombre=MATEO  
+
+###crear un perfume con POST
+
+POST http://localhost:3001/perfumes
+Content-Type: application/json
+
+{
+    "nombre": "Polo black",
+    "cantidad": 1000,
+    "categoria": ["Maderado","Mentolado"],
+    "notas": "suave"
+}
+
+###Actializar una parte del perfume con 
+
+PATCH  http://localhost:3001/perfumes/baef2215-41e3-472c-8282-1a8b21975a11
+Content-Type: application/json
+
+{
+    "nombre": "Adventure"
+}
